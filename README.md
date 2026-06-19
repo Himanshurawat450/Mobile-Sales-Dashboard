@@ -106,7 +106,7 @@ Mobile-Sales-Dashboard/
 
 ---
 ## Demos
-Example: https://github.com/Himanshurawat450/Mobile-Sales-Dashboard/blob/main/image.png
+Example: (https://github.com/Himanshurawat450/Mobile-Sales-Dashboard/blob/main/image.png)
 
 ## 👨‍💻 Author
 
